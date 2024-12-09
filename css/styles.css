@@ -989,7 +989,7 @@ html {
 
 }
 #one-panel{
-  background-image: url(./images/weather.jpg);
+  background-image: url(../images/weather.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -998,7 +998,7 @@ html {
 }
 
 #two-panel{
-  background-image: url(./images/maxresdefault.jpg);
+  background-image: url(../images/maxresdefault.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1006,7 +1006,7 @@ html {
   height: 384px;
 }
 #three-panel{
-  background-image: url(./images/watch.webp);
+  background-image: url(../images/watch.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1014,7 +1014,7 @@ html {
   height: 412px;
 }
 #fourth-panel{
-  background-image: url(./images/construction.jpg);
+  background-image: url(../images/construction.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1022,7 +1022,7 @@ html {
   height: 413px;
 }
 #fifth-panel{
-  background-image: url(./images/calculator.jpg);
+  background-image: url(../images/calculator.jpg);
   background-position:center;
   background-repeat: no-repeat;
   background-size: cover;
